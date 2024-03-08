@@ -5,7 +5,7 @@ import TopHeader from "./components/TopHeader.vue";
 </script>
 
 <template>
-  <TopHeader/>
+  <!-- <TopHeader/> -->
   <Navbar />
   <Footer />
 </template>

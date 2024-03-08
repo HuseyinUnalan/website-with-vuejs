@@ -15,7 +15,7 @@
             doloribus sit. Suscipit quisquam ea cumque nisi repellendus dolor
             qui aut atque.
           </p>
-          <RouterLink to="" class="btn btn-blog-design"
+          <RouterLink to="blog-detail" class="btn btn-blog-design"
             ><i class="fas fa-arrow-right"></i> Read More</RouterLink
           >
         </div>
@@ -24,14 +24,14 @@
       <div class="col-lg-4 mt-2 mb-2">
         <div class="card card-shadow">
           <img src="../assets/blog-photo-5.jpg" alt="" class="img-fluid" />
-          <h2 class="text-center mt-2">Blog 1</h2>
+          <h2 class="text-center mt-2">Blog 2</h2>
           <p class="text-center">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam
             rerum magni reprehenderit sed consectetur esse quisquam dolor quod
             doloribus sit. Suscipit quisquam ea cumque nisi repellendus dolor
             qui aut atque.
           </p>
-          <RouterLink to="" class="btn btn-blog-design"
+          <RouterLink to="blog-detail" class="btn btn-blog-design"
             ><i class="fas fa-arrow-right"></i> Read More</RouterLink
           >
         </div>
@@ -40,14 +40,14 @@
       <div class="col-lg-4 mt-2 mb-2">
         <div class="card card-shadow">
           <img src="../assets/blog-photo-6.jpg" alt="" class="img-fluid" />
-          <h2 class="text-center mt-2">Blog 1</h2>
+          <h2 class="text-center mt-2">Blog 3</h2>
           <p class="text-center">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam
             rerum magni reprehenderit sed consectetur esse quisquam dolor quod
             doloribus sit. Suscipit quisquam ea cumque nisi repellendus dolor
             qui aut atque.
           </p>
-          <RouterLink to="" class="btn btn-blog-design"
+          <RouterLink to="blog-detail" class="btn btn-blog-design"
             ><i class="fas fa-arrow-right"></i> Read More</RouterLink
           >
         </div>

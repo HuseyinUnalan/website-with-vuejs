@@ -20,11 +20,10 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 <template>
-  <TopHeader />
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid scrolled">
       <RouterLink to="/" class="navbar-brand"
-        ><img src="../assets/logo.png" class="logo-design" alt=""
+        ><img src="../assets/logo-2.png" class="logo-design" alt=""
       /></RouterLink>
       <button
         class="navbar-toggler"
@@ -68,15 +67,6 @@ document.addEventListener("DOMContentLoaded", function () {
             </ul>
           </li>
         </ul>
-        <form class="d-flex">
-          <input
-            class="form-control me-2"
-            type="search"
-            placeholder="Search"
-            aria-label="Search"
-          />
-          <button class="btn btn-outline-success" type="submit">Search</button>
-        </form>
       </div>
     </div>
   </nav>
@@ -87,7 +77,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <style scoped>
 .logo-design {
-  width: 120px;
+  width: 140px;
   height: auto;
 }
 
@@ -101,7 +91,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 /* Navbar'a özel stil kuralları */
 .navbar.scrolled {
-  top: -20px; /* Navbar'ın yukarıdan aşağıya gelme mesafesi */
+  top: -3px; /* Navbar'ın yukarıdan aşağıya gelme mesafesi */
   background-color: #ebf3eb !important; /* Scroll efekti sırasında arkaplan rengini belirleyebilirsiniz */
 }
 </style>
